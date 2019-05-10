@@ -1,5 +1,5 @@
+#Google Homepage Clone
+This project is to replicate the google homepage with using css and html.
 
-This project is to replicate the 
-google homepage with using css and html.
-
-I have made it responsive, so it can be used on any type of device.
+#Motivation 
+I created this application to improve on my html and css skills.
